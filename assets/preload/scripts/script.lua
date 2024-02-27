@@ -1,0 +1,11 @@
+function onCreate() 
+addLuaScript("scripts/pause.lua")
+addLuaScript("scripts/HEALTH_BAR_SHIT.lua")
+addLuaScript("scripts/Combo.lua")
+addLuaScript("scripts/freeplay.lua")
+addLuaScript("scripts/freeplay1.lua")
+addLuaScript("scripts/freeplay2.lua")
+addLuaScript("scripts/freeplay3.lua")
+addLuaScript("scripts/freeplay4.lua")
+addLuaScript("scripts/freeplay5.lua")
+end
